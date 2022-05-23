@@ -1,3 +1,5 @@
+https://image.tmdb.org/t/p/w500 indirizzo per recuperare le immagini delle locandine
+
 # FE0222BProgettoSettimana12
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.

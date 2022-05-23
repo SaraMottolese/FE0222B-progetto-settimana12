@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="row">
+        <div *ngFor="let img of arrMovie; let i=index" class="container col-3 m-4">
+            <div class="card" style="width: 10 rem">
+                <img class="card-img-top" [src]="'https://image.tmdb.org/t/p/w500' + arrMovie[i].poster_path" alt="Card image cap" />
+                <div class="card-body">
+                    <button class="btn"> <i class="bi bi-heart"></i></button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

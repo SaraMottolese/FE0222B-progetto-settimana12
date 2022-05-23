@@ -5,6 +5,18 @@
       "password": "$2a$10$SmgrR2x18eeoJMFtk9N9FORmSTDG0ToOtqOS0Ik0jgiRWoAqe7sT2",
       "name": "nicola toledo",
       "id": 1
+    },
+    {
+      "email": "sara@gmail.it",
+      "password": "$2a$10$mxTVMHvxXu44iqHCrQvQpuDOyx4iFE5ySN3QYS6a/Wvtn.cHgNTIa",
+      "name": "Sara Mottolese",
+      "id": 2
+    },
+    {
+      "email": "sara@gmail.itASa",
+      "password": "$2a$10$Q0.JfwoULYs/t8vSJ8HvRuuAaRUAl/C0YpBD5aJQvLAUJUiny.U2C",
+      "name": "wsSA",
+      "id": 3
     }
   ],
   "favorites": [
